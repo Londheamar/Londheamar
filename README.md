@@ -16,7 +16,7 @@
 - 💬 Ask me about Web Development
 
 
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCtM1bw4eRDKlBndFQf__FxQ?color=ca2929&label=Youtube%20Channel&style=social)](https://www.youtube.com/channel/UCtM1bw4eRDKlBndFQf__FxQ)
+[![Subscribe](https://img.shields.io/youtube/channel/views/UCtM1bw4eRDKlBndFQf__FxQ?color=ca2929&label=Subscribe&style=social)](https://www.youtube.com/channel/UCtM1bw4eRDKlBndFQf__FxQ)
 [![Linkedin Badge](https://img.shields.io/badge/-londheamar-white?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/londheamar/)](https://www.linkedin.com/in/londheamar/)
 
 
