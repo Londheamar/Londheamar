@@ -28,20 +28,36 @@
 
 <p align="center">
 <!-- Github Stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=londheamar&show_icons=true&theme=radical&count_private=true" alt="londheamar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=londheamar&show_icons=true&theme=transparent&count_private=true" alt="londheamar" />
 
 <!-- Languages -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=londheamar&layout=compact&show_icons=true&theme=radical&count_private=true" alt="londheamar" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=londheamar&layout=compact&show_icons=true&theme=transparent&count_private=true" alt="londheamar" />
+ 
 </p>
+<!-- Streak -->
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=londheamar&theme=transparent" alt="GitHub Streak" /></a></p>
+
 
 ## Languages and Tools
-<p align="center" >
-<code> <img height="50" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png"> </code>
-<code> <img height="50" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png"> </code>
-<code> <img height="50" src="https://www.clipartmax.com/png/middle/470-4707396_javascript-icon-html-css-js-icons.png"> </code>
-<code> <img height="50" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png"> </code>
-<code> <img height="50" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"> </code>
-<code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"> </code>
-<code> <img height="50" src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg"> </code>
- <code> <img height="50" src="https://img.icons8.com/color/452/visual-studio.png"> </code>
+
+<p align="left"> 
+  <code><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </code>
+  <code><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </code>
+  <code><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </code>
+  <code><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </code>
+  <code><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </code>
+  <code><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </code>
+  <code><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </code>
+  <code><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </code>
+  <code><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </code>
+  <code><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </code>
+  <code><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </code>
+  <code><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </code>
+  <code><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </code>
+  <code><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </code>
+  <code><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </code>
+  <code><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </code>
+  <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu" width="40" height="40"/> </a> </code>
+  <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/visual-studio.png" alt="VS-code" width="40" height="40"/> </a> </code>
 </p>
