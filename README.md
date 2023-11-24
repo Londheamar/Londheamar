@@ -1,9 +1,9 @@
-[<img src="https://media-exp1.licdn.com/dms/image/C4D16AQFnv4wlKZ8_5g/profile-displaybackgroundimage-shrink_350_1400/0/1653138448786?e=1668038400&v=beta&t=5MPXzFLDIsDBm0d9PVCHcWLp21tqtVmT0EJHCkfhlHE"/>](https://www.linkedin.com/in/londheamar/)
+<!-- <img height="150" width="100%" src="https://raw.githubusercontent.com/Londheamar/Londheamar/main/1688388747290.jpeg"/> -->
 
 <!-- <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />Hey Dev's, I'm Londhe Amar</h1> -->
 <!-- <p align="center">SOFTWARE DEVELOPER</p> -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
 <br />
